@@ -3,8 +3,8 @@ Azure Linux VM Deployment with Storage Account using Terraform: This Terraform p
 
 Features:
 
-Creates a Resource Group
-Deploys a Linux Virtual Machine (Ubuntu)
-Creates a Storage Account
-Adds a Network Interface, Virtual Network, Subnet, and Public IP
-Outputs key resource details (IP, VM name, etc.)
+  1. Creates a Resource Group
+  2. Deploys a Linux Virtual Machine (Ubuntu)
+  3. Creates a Storage Account
+  4. Adds a Network Interface, Virtual Network, Subnet, and Public IP
+  5. Outputs key resource details (IP, VM name, etc.)
